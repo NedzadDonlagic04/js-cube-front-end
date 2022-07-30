@@ -1,5 +1,3 @@
-/* Start of the top section javascript */
-
 // Using the querySelector methods we find all the elements 
 // we need for this section
 const editBox = document.querySelector('main .edit-box');
@@ -164,5 +162,3 @@ colorBox.forEach( element => {
         element.innerHTML=arrowDown;
     });
 });
-
-/* End of the top section javascript */
